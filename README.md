@@ -26,6 +26,7 @@ O projeto organiza essa pergunta como visão de futuro, diagnóstico, agenda de 
 - alternativas centralizadas e descentralizadas de saneamento, conforme a realidade de cada bairro;
 - roteiro de implantação, governança, participação comunitária e indicadores;
 - antipadrões e salvaguardas contra exclusividade comercial, apropriação de fontes, opacidade contratual e dependência de patrocinadores.
+- uma frente de mobilização com contatos públicos verificados da gestão municipal, lideranças políticas, entidades do COMAM e organizações ambientais atuantes no território, além de um e-mail-base para apresentar a proposta.
 
 ## Princípios
 
