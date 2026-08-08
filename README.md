@@ -12,11 +12,12 @@ São Sebastião reúne duas riquezas que não podem ser tratadas como cenário: 
 
 Água Livre, São Sebastião nasce de uma pergunta cidadã: **como garantir que a água abundante do território permaneça limpa, protegida, monitorada e acessível às pessoas, sem captura privada e sem risco sanitário?**
 
-O projeto organiza essa pergunta como visão de futuro, diagnóstico, agenda de pesquisa e proposta de política pública. Seu objetivo é abrir uma conversa responsável entre moradores, comunidades tradicionais, pesquisadores, servidores, organizações civis e lideranças políticas.
+O projeto organiza essa pergunta como visão de futuro, diagnóstico, agenda de pesquisa e proposta de política pública. Seu objetivo é abrir uma conversa responsável entre moradores, comunidades tradicionais, pesquisadores, servidores, associações, coletivos, conselhos, escolas, atividades econômicas e lideranças políticas — reconhecendo que cada parte tem uma responsabilidade diferente e que nenhuma realiza o caminho inteiro sozinha.
 
 ## O que o dossiê apresenta
 
-- uma abertura prospectiva, contada do futuro para o presente, sobre o legado político possível de um programa municipal das águas;
+- uma entrada narrativa que situa a água como relação compartilhada e convida cada leitor por seu papel no território;
+- uma abertura prospectiva, contada do futuro para o presente, sobre o legado político possível de um programa municipal das águas construído por muitas mãos;
 - uma narrativa histórica sobre ocupação, saneamento, rios urbanos e perda do acesso cotidiano à água;
 - dados públicos, fontes oficiais e distinção explícita entre fatos confirmados, inferências e perguntas ainda abertas;
 - leitura territorial das dez sub-bacias hidrográficas municipais;
@@ -25,8 +26,8 @@ O projeto organiza essa pergunta como visão de futuro, diagnóstico, agenda de 
 - monitoramento contínuo, publicação de resultados e protocolos de fechamento preventivo;
 - alternativas centralizadas e descentralizadas de saneamento, conforme a realidade de cada bairro;
 - roteiro de implantação, governança, participação comunitária e indicadores;
-- antipadrões e salvaguardas contra exclusividade comercial, apropriação de fontes, opacidade contratual e dependência de patrocinadores.
-- uma frente de mobilização com contatos públicos verificados da gestão municipal, lideranças políticas, entidades do COMAM e organizações ambientais atuantes no território, além de um e-mail-base para apresentar a proposta.
+- antipadrões e salvaguardas contra exclusividade comercial, apropriação de fontes, opacidade contratual e dependência de patrocinadores;
+- uma constelação de responsabilidades para governos, servidores, conselhos, associações, coletivos, comunidades, ciência, escolas, comércio e turismo, sem transformar o site em lista de destinatários ou ferramenta de disparo.
 
 ## Princípios
 
@@ -42,7 +43,7 @@ O projeto organiza essa pergunta como visão de futuro, diagnóstico, agenda de 
 
 Este é um **projeto cidadão independente**. Não representa a Prefeitura de São Sebastião, partido político, candidatura, concessionária ou empresa privada.
 
-A narrativa eleitoral de abertura é um cenário prospectivo: uma ferramenta para visualizar resultados possíveis e convidar lideranças a assumir compromissos concretos. Ela não descreve uma eleição real nem atribui realizações fictícias a uma pessoa existente.
+A narrativa eleitoral de abertura é um cenário prospectivo: uma ferramenta para visualizar resultados possíveis e convidar lideranças e organizações a assumir compromissos concretos. Ela não descreve uma eleição real, não atribui realizações fictícias a uma pessoa existente e não apaga a autoria coletiva de uma política pública.
 
 O material não substitui estudos hidrogeológicos, licenciamento, vigilância sanitária, análises laboratoriais ou projetos executivos. Essas etapas são parte indispensável da proposta.
 
