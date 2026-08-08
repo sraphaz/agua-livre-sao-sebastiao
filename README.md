@@ -12,10 +12,11 @@ São Sebastião reúne duas riquezas que não podem ser tratadas como cenário: 
 
 Água Livre, São Sebastião nasce de uma pergunta cidadã: **como garantir que a água abundante do território permaneça limpa, protegida, monitorada e acessível às pessoas, sem captura privada e sem risco sanitário?**
 
-O projeto organiza essa pergunta como visão de futuro, diagnóstico, agenda de pesquisa e proposta de política pública. Seu objetivo é abrir uma conversa responsável entre moradores, comunidades tradicionais, pesquisadores, servidores, associações, coletivos, conselhos, escolas, atividades econômicas e lideranças políticas — reconhecendo que cada parte tem uma responsabilidade diferente e que nenhuma realiza o caminho inteiro sozinha.
+O projeto organiza essa pergunta como história, visão de futuro, diagnóstico, agenda de pesquisa e proposta de política pública. Seu objetivo é abrir uma conversa responsável entre moradores, comunidades tradicionais, pesquisadores, servidores, associações, coletivos, conselhos, escolas, atividades econômicas e lideranças políticas — reconhecendo que cada parte tem uma responsabilidade diferente e que nenhuma realiza o caminho inteiro sozinha.
 
 ## O que o dossiê apresenta
 
+- uma história literária de abertura, contada diretamente ao leitor, que atravessa a presença indígena no território, a transformação colonial e urbana, o esquecimento cotidiano da água e a possibilidade de reencontro;
 - uma entrada narrativa que situa a água como relação compartilhada e convida cada leitor por seu papel no território;
 - uma abertura prospectiva, contada do futuro para o presente, sobre o legado político possível de um programa municipal das águas construído por muitas mãos;
 - uma narrativa histórica sobre ocupação, saneamento, rios urbanos e perda do acesso cotidiano à água;
@@ -43,7 +44,9 @@ O projeto organiza essa pergunta como visão de futuro, diagnóstico, agenda de 
 
 Este é um **projeto cidadão independente**. Não representa a Prefeitura de São Sebastião, partido político, candidatura, concessionária ou empresa privada.
 
-A narrativa eleitoral de abertura é um cenário prospectivo: uma ferramenta para visualizar resultados possíveis e convidar lideranças e organizações a assumir compromissos concretos. Ela não descreve uma eleição real, não atribui realizações fictícias a uma pessoa existente e não apaga a autoria coletiva de uma política pública.
+A história inicial é uma narrativa literária cidadã, não um mito indígena nem uma reconstrução de crenças Tupinambá ou Tupiniquim. Ela reconhece a presença documentada desses povos no território e aborda cosmologias indígenas com cuidado explícito contra generalizações.
+
+A narrativa eleitoral que vem em seguida é um cenário prospectivo: uma ferramenta para visualizar resultados possíveis e convidar lideranças e organizações a assumir compromissos concretos. Ela não descreve uma eleição real, não atribui realizações fictícias a uma pessoa existente e não apaga a autoria coletiva de uma política pública.
 
 O material não substitui estudos hidrogeológicos, licenciamento, vigilância sanitária, análises laboratoriais ou projetos executivos. Essas etapas são parte indispensável da proposta.
 
