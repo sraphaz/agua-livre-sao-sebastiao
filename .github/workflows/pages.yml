@@ -1,0 +1,56 @@
+name: Publicar no GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter o conteúdo
+        uses: actions/checkout@v4
+
+      - name: Configurar o GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Preparar o site estático
+        run: |
+          mkdir -p _site/assets
+          cp index.html _site/index.html
+          cp -R assets/. _site/assets/
+          touch _site/.nojekyll
+
+      - name: Validar os arquivos essenciais
+        run: |
+          test -s _site/index.html
+          test -s _site/assets/agua-futuro-2028.webp
+          test -s _site/assets/agua-serra-mar.webp
+          test -s _site/assets/agua-encontro.webp
+          test -s _site/assets/agua-gesto.webp
+          grep -q "Água Livre, São Sebastião" _site/index.html
+
+      - name: Empacotar o site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4
